@@ -3,7 +3,8 @@
 #include <stdio.h>
 
 /**
- * main - Generates a random number and provides information about its sign (positive, negative, or zero).
+ * main - Generates a random number
+ * it provides information about its sign (positive, negative, or zero).
  * Return: Always 0 (Success)
  */
 int main(void)
