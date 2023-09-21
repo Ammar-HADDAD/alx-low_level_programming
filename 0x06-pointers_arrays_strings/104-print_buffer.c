@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdio.h>
 /**
- * print_line - prints a s bytes of a buffer
+ * print_line - printing s bytes of a buffer
  * @c: buffer to print
  * @s: bytes of buffer to print
  * @l: line of buffer to print
@@ -31,7 +31,7 @@ putchar('.');
 }
 
 /**
- * print_buffer - prints a buffer
+ * print_buffer - printing a buffer
  * @b: buffer to print
  * @size: size of buffer
  *
